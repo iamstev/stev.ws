@@ -44,7 +44,8 @@
 	"creationDate": 541787195,
 	"displayValue": "stev.ws",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "brackets_gray"
+	"iconImageName": "brackets_gray",
+	"lastBuiltDate": 541789871
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
