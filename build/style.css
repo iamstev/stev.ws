@@ -1,0 +1,13 @@
+html {
+  background: linear-gradient(to bottom, #09b271 0%, #32ffb0 100%); }
+
+p {
+  max-width: 95%;
+  margin: 20% auto 0 auto;
+  display: block;
+  font-family: sans-serif;
+  color: #09B271;
+  font-size: 3em;
+  text-align: center;
+  padding: 0 0 .5em 0;
+  border-bottom: dotted 1px #B21E00; }
